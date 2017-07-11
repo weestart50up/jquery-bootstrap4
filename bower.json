@@ -1,0 +1,20 @@
+{
+  "name": "jquery",
+  "authors": [
+    "weeran <weeran@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "4.0.0-alpha.6"
+  }
+}
